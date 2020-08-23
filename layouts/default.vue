@@ -50,3 +50,9 @@ header {
   font-weight: 300
 }
 </style>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto:wght@500&display=swap');
+  .v-application--wrap {
+    background: #F6F7FB;
+  }
+</style>

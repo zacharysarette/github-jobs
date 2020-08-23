@@ -1,6 +1,6 @@
 <template>
   <v-layout>
-    <v-container class="d-flex">
+    <v-container class="d-flex flex-wrap flex-md-nowrap flex-sm-wrap">
       <div md="4">
         <v-link>
           back to search
